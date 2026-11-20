@@ -19,27 +19,6 @@
 
 ## 🌍 Read This README In Your Language
 
-This README is in English by default. Full translations live in the [`Langs/`](Langs) folder:
-
-| Language | Link |
-|---|---|
-| Swahili | [Read the Swahili (Kiswahili) README](Langs/sw.md) |
-| Spanish | [Read the Spanish (Español) README](Langs/es.md) |
-| French | [Read the French (Français) README](Langs/fr.md) |
-| German | [Read the German (Deutsch) README](Langs/de.md) |
-| Portuguese | [Read the Portuguese (Português) README](Langs/pt.md) |
-| Arabic | [Read the Arabic (العربية) README](Langs/ar.md) |
-| Hindi | [Read the Hindi (हिन्दी) README](Langs/hi.md) |
-| Chinese | [Read the Chinese (中文) README](Langs/zh.md) |
-| Japanese | [Read the Japanese (日本語) README](Langs/ja.md) |
-| Korean | [Read the Korean (한국어) README](Langs/ko.md) |
-| Russian | [Read the Russian (Русский) README](Langs/ru.md) |
-| Turkish | [Read the Turkish (Türkçe) README](Langs/tr.md) |
-| Indonesian | [Read the Indonesian (Bahasa Indonesia) README](Langs/id.md) |
-| Hausa | [Read the Hausa README](Langs/ha.md) |
-| Yoruba | [Read the Yoruba (Yorùbá) README](Langs/yo.md) |
-| Amharic | [Read the Amharic (አማርኛ) README](Langs/am.md) |
-
 Change the bot's reply language anytime with: `.language <code>` (Owner only)
 
 ---
@@ -138,7 +117,7 @@ Change the bot's reply language anytime with: `.language <code>` (Owner only)
 
 #### Step 1 — Fork the Repository
 
-[![Fork Repo](https://img.shields.io/badge/FORK%20REPOSITORY-brightgreen?style=for-the-badge&logo=github)](https://github.com/xhclintohn/Toxic-MD/fork)
+[![Fork Repo](https://img.shields.io/badge/FORK%20REPOSITORY-brightgreen?style=for-the-badge&logo=github)](https://github.com/johntezali56/Toxic-MD/fork)
 
 #### Step 2 — Pair Your WhatsApp
 
@@ -237,6 +216,6 @@ SESSION=YOUR_SESSION_ID
 
 Simple • Powerful • Multi-Device WhatsApp Bot
 
-*Built with ❤️ by xh_clinton*
+*Built with ❤️ by Matiti_ya_Cobra*
 
 </div>
